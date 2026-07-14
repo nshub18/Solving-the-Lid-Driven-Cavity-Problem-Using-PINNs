@@ -1,4 +1,4 @@
-# Solving-the-Lid-Driven-Cavity-Problem-Using-PINNs
+
 # Solving the 2D Lid-Driven Cavity Problem using PINNs
 
 This repository contains a **Physics-Informed Neural Network (PINN)** implementation to solve the classic 2D Lid-Driven Cavity flow problem. By embedding the governing physical laws directly into the neural network's loss function, this model approximates the steady-state, incompressible Navier-Stokes equations without requiring traditional mesh discretization (like FDM, FVM, or FEM).
